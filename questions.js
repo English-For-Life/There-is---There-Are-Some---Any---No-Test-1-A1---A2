@@ -32,7 +32,7 @@ const quiz = [
     },
     {
      q:"There ........  ........ air conditioner in our summer house.",
-        options:["aren't / no", "is / any", "isn't / an", "are / some"],
+        options:["aren't / no", "is / any", "isn't / any", "are / some"],
         answer: 2   
     },
     {
